@@ -1,0 +1,30 @@
+main {
+  outline: 8px solid #4285f4;
+  width: 300px;
+}
+.first {
+  color: white;
+  background: #E67676;
+}
+.second {
+  color: white;
+  background: #F2F062;
+}
+.third {
+  color: white;
+  background: #A9E6E6;
+}
+.fourth {
+  color: white;
+  background: #7692E4;
+}
+.centered {
+  text-align: center;
+  padding: 40px;
+  margin: 0px;
+  font-family: 'Baloo Thambi 2';
+  font-size: 30px;
+}
+body {
+  padding: 20px;
+}
